@@ -11,7 +11,7 @@ Currently there are only a few select programs that I've made, but feel free to 
 
 ## How to Use
 
-This part is really simple - just download the `SplatoonUtils.zip` folder from the latest release, extract it, and double click on the program you want to use.  
+This part is really simple - just download the `S3-UtilPack.zip` folder from the latest release, extract it, and double click on the program you want to use.  
 It should open in some sort of command prompt window and you will be able to do all the inputs and get the correct output.  
 If there are formatting errors or it doesn't work, then download an IDE/code editor like IDLE or VSCode and run the files inside those.  
 
@@ -24,5 +24,6 @@ You can DM me on Discord if you have any questions or suggestions (@pixlsage).
 
 Even if some of these exist in other forms on the web, I felt like a lot of those versions were missing features that I thought would have been useful, at least for when I was using them.  
 And of course, some of them don't exist anywhere else (at least to my knowledge)!
+
 
 
