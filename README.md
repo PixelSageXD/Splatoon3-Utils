@@ -1,4 +1,4 @@
-# Pixel's Splatoon3 Utils
+# Pixel's Splatoon 3 Utils
 
 A set of random utility programs made in separate Python files to make your Splatoon 3 experience just that little bit nicer!  
 Every file is **fully commented** so you can see exactly how they all work, although you don't have to know it to be able to use it.  
@@ -24,4 +24,5 @@ You can DM me on Discord if you have any questions or suggestions (@pixlsage).
 
 Even if some of these exist in other forms on the web, I felt like a lot of those versions were missing features that I thought would have been useful, at least for when I was using them.  
 And of course, some of them don't exist anywhere else (at least to my knowledge)!
+
 
