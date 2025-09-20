@@ -6,8 +6,8 @@ Every file is **fully commented** so you can see exactly how they all work, alth
 ## Programs
 
 Currently there are only a few select programs that I've made, but feel free to let me know if you have any ideas!  
-**Set Maplist Generator:** A way to easily make maplists for competitive scrims or sets (made 19 Sep 2025)  
-**Big Run Egg Calculator:** A program that automatically calculates requirements and averages for Big Run medal quotas (made 20 Sep 2025)  
+* **Set Maplist Generator:** A way to easily make maplists for competitive scrims or sets (made 19 Sep 2025)  
+* **Big Run Egg Calculator:** A program that automatically calculates requirements and averages for Big Run medal quotas (made 20 Sep 2025)  
 
 ## How to Use
 
@@ -24,3 +24,4 @@ You can DM me on Discord if you have any questions or suggestions (@pixlsage).
 
 Even if some of these exist in other forms on the web, I felt like a lot of those versions were missing features that I thought would have been useful, at least for when I was using them.  
 And of course, some of them don't exist anywhere else (at least to my knowledge)!
+
